@@ -47,7 +47,7 @@ pip install opencv-python mediapipe numpy
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hand-gesture-recognition.git
+git clone https://github.com/Praveen-0361/hand-gesture-recognition.git
 ```
 
 2. Navigate to the project folder:
